@@ -14,7 +14,6 @@ class MapViewController: UIViewController {
     @IBOutlet weak var mapView: MKMapView!
     @IBOutlet weak var searchBar: UISearchBar!
     
-    
     let annotation = MKPointAnnotation()
     
     
